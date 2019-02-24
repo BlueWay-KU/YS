@@ -1,7 +1,7 @@
 ## 파일 코드
 DTU = Drone To User
 
-UTE = User To Drone
+UTE = User To Exit
 
 location_test = 드론 현재 위치 인식
 
