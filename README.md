@@ -1,4 +1,11 @@
-# 라즈베리파이와 아두이노 시리얼 연결
-https://blog.naver.com/3demp/221399859161
+## 파일 코드
+DTU = Drone To User
 
-# B
+UTE = User To Drone
+
+location_test = 드론 현재 위치 인식
+
+fireAlarm = 화재감지기
+
+## fireAlarm
+라즈베리파이와 아두이노 시리얼 연결
